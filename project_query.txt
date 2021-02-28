@@ -1,0 +1,55 @@
+1) Insert a new product in product table
+   Insert a new product in stock table
+2) Delete a modarator who left the job
+   Delete a product which is out of stock
+
+3) update a product price
+   update a product stock amount
+
+4) Find top 5 best saling product
+   Find top  5 moderators according to their product selling amount
+   Tail 5 moderators according to their product selling amount
+
+
+5)  platinum customer(who order so frequently and who purchase the max amount) 
+    Customer with liwest order(fokira customer :3)
+
+6) Search the name of a partcular product
+    Search the name of a partcular customer
+   Search the name of a partcular Moderator
+
+7)Find cusomers who purchase at least 3 digit amount
+
+8) list name of the products having discount
+9) find the total price of a product including vat
+10) Find the top 10 pruduct which ordered frequently/ most selling product
+
+11) display product under same supplier
+
+12) calculating profit/loss on a product
+
+13) product which are largely preferable by male/female
+
+14)customer under same payment method
+
+15) Find total number of customer ordered today/this month
+16) find average order amount of today
+
+17) find number of orders by each customer
+
+18)  find number of orders of each product
+19) Find the order_date  of the customers who order more thn 1 product
+
+20)Find the name of the customers who orders avg order is greater than 1000 and 
+
+21) update the price of the products which have limited stock
+
+22) calculate the payment amount(with discount) of a product puchase by credit card
+
+23) display product having max stock amount , their offer, order amount
+
+24) number of customer , each moderator attends in a day
+
+
+
+  
